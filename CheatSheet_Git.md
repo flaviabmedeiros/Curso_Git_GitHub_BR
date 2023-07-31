@@ -73,4 +73,19 @@
 - envia tudo para o repositório remoto.
 
 *git pull*
+
 - Puxar informações do GitHub para o meu repositório local. 
+
+*git revert*
+
+- reverter o último commit que foi feito num arquivo. Se for o primeiro o arquivo será deletado.
+
+- se não especificar, será o último commit. Pode especificar com o ID do commit.
+
+*git reset*
+
+- good option when you realize that the changes being made to a particular local branch should be somewhere else. You can reset and move to the desired branch without losing your file changes.
+
+*git clone*
+
+-  melhor maneira de pegar qualquer cópia no GitHub

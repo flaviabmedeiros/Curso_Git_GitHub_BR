@@ -65,5 +65,3 @@ Lista de arquivos que não deve ser adicionado no repositório.
 - backup files
 
 - intermediate files 
-
- 
