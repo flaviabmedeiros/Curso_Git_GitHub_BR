@@ -12,9 +12,7 @@
    
    *cd curso_Git*
 
-
-
-3. Conceitos (possivelmente só o que é necessário para a atividade)
+3. <mark>**Conceitos (possivelmente só o que é necessário para a atividade)**</mark>
    
    **What is Git Repository? And GitHub?**
    
@@ -27,6 +25,10 @@
    - Area de desenvolvimento: onde eu desenvolvo e salvo meus arquivos referentes ao projeto, ou seja, sua pasta, seu computador.
    
    - Área de staging: é o 'purgatório' onde ue jogo as coisas antes de salvar no meu repositório git.
+     
+     Por que a staging area é important?
+     
+     Porque também pode ser considerada uma etapa de classificação dos arquivos, onde eu posso correlacionar arquivos diferentes tipo file_A e file_C, na mesma mensagem.
    
    - Repositório local: o  .git, onde o git faz a gestão das versões dos teus arquivos.
 
@@ -38,6 +40,8 @@
    
    *git commit -m "meaningful message"*
 
-
-
 meaningful message: why was it changed? How this adresses the issue? Effects due to the change and Limitations of the change. 
+
+por que o commit é tão importante?
+
+ porque ele era salvar diferentes arquivos na linha do tempo do projeto.
