@@ -46,13 +46,15 @@ por que o commit é tão importante?
 
  porque ele era salvar diferentes arquivos na linha do tempo do projeto.
 
+# 
+
 # GIT HUB
 
-O GitHub NÃO é um armazenamento de dados.
+O GitHub NÃO é um armazenamento de dados. É um **repositório remoto**!
 
 Recomenda-se que todo repositório Git tenha um README.txt
 
-- detailed description of yo ur project and tol usage
+- detailed description of your project and tool usage
 
 .gitignore (arquivo oculto)
 
@@ -63,3 +65,5 @@ Lista de arquivos que não deve ser adicionado no repositório.
 - backup files
 
 - intermediate files 
+
+ 

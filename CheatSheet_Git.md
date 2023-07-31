@@ -53,8 +53,6 @@
   -n <n*> (escolher um número específico de commits para ver)
   
   --abbrev-commit (abrevia a ID do commit)
-  
-  
 
 *git diff*
 
@@ -65,3 +63,11 @@
 - --help
 
 - +adição e - deletado <ID1> <ID2>
+
+*git remote add* <name> <ssh>
+
+- Cria um link da máquina local para o repositório remoto (ou seja GitHub)
+
+*git push*
+
+- envia tudo para o repositório remoto. 
