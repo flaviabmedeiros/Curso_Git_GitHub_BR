@@ -23,6 +23,18 @@
 (meaningful message - por quê? como? efeitos? limitações?_)
 
 - o que acontece se eu esquecer o -m no commit?
+  
+  O git me obriga a escrever uma mensagem para a alteração.
+  
+  Vantagem: tem como fazer parágrafos, uma mensagem mais longa.
+  
+  protocolo: 
+  
+  i = insert
+  
+  esc - :wq (w salva e q sai)
+  
+  enter 
 
 
 
@@ -30,7 +42,7 @@
 
 - verifica mudanças incomuns, staged e unstaged changes, modificações... tudo. 
 
-- verifica as 3 áreas e retorna para o usuário 
+- verifica as 3 áreas e retorna para o usuário.
 
 
 
