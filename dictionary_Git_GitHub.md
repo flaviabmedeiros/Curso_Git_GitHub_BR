@@ -45,3 +45,21 @@ meaningful message: why was it changed? How this adresses the issue? Effects due
 por que o commit é tão importante?
 
  porque ele era salvar diferentes arquivos na linha do tempo do projeto.
+
+# GIT HUB
+
+O GitHub NÃO é um armazenamento de dados.
+
+Recomenda-se que todo repositório Git tenha um README.txt
+
+- detailed description of yo ur project and tol usage
+
+.gitignore (arquivo oculto)
+
+Lista de arquivos que não deve ser adicionado no repositório.
+
+- data files
+
+- backup files
+
+- intermediate files 
