@@ -70,4 +70,7 @@
 
 *git push*
 
-- envia tudo para o repositório remoto. 
+- envia tudo para o repositório remoto.
+
+*git pull*
+- Puxar informações do GitHub para o meu repositório local. 
