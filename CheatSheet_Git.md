@@ -11,20 +11,17 @@
   PS_3: o git não consegue "bisbilhotar" pastas acimas da sua posição hierárquica.
   
   PS_4: cuidar para não iniciar 2x o git no mesmo projeto (considerando que ele enxerga subpastas abaixo do seu nível hierárquico).
-  
-  
 
 *git add <file_name.md>* 
 
 - adiciona o arquivo no purgatório (Staging area)
-  
-  
 
 *git commit -m* "meaningful message"* 
 
 (meaningful message - por quê? como? efeitos? limitações?_)
 
 - você se compromete com essa tualização, ou seja, você criou uma versão deste projeto no seu repositório Git (repositório local).
+
 - Por que o commit é tão importante? 
   
   Porque ele era salvar diferentes arquivos na linha do tempo do projeto.
@@ -40,16 +37,12 @@
   esc - :wq (w salva e q sai)
   
   enter 
-  
-  
 
 *git status* 
 
 - verifica mudanças incomuns, staged e unstaged changes, modificações... tudo. 
 
 - verifica as 3 áreas e retorna para o usuário.
-  
-  
 
 *git log* 
 
@@ -72,17 +65,3 @@
 - --help
 
 - +adição e - deletado <ID1> <ID2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
