@@ -1,6 +1,6 @@
 ## CheatSheet
 
-**git init* - * 
+*git init* 
 
 - comando para inicializar um repositório git. 
   
@@ -20,13 +20,15 @@
 
 - você se compromete com essa tualização, ou seja, você criou uma versão deste projeto no seu repositório Git (repositório local).
 
-(meaningful message - por quê? como? efeitos? limitações?_)_
+(meaningful message - por quê? como? efeitos? limitações?_)
+
+- o que acontece se eu esquecer o -m no commit?
 
 
 
 **git status* *
 
-- verifica mudanças incomuns, staged e unstaged changes, 
+- verifica mudanças incomuns, staged e unstaged changes, modificações... tudo. 
 
 - verifica as 3 áreas e retorna para o usuário 
 
