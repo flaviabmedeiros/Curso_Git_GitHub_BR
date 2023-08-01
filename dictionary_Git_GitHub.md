@@ -78,6 +78,7 @@ Lista de arquivos que não deve ser adicionado no repositório.
      
      -     git clone <SSH>
 
+<<<<<<< HEAD
 Dicionário
 
 - Git: Ferramenta para acompanhar diferentes versões do seu trabalho
@@ -97,3 +98,8 @@ Dicionário
    *git commit*
    
    *git push*
+   =======
+   
+   git checkout ID: cuidado! modificar o passado pode trazer riscos a sua saúde em desespero, lembre-se de criar um branch para não perder tudo que você fez! (*git switch*)
+   
+   > > > > > > > 
