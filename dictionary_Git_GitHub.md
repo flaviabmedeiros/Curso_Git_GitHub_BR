@@ -78,6 +78,4 @@ Lista de arquivos que não deve ser adicionado no repositório.
      
      -     git clone <SSH>
 
-boa tarde, quero criar o caos. Vou criar um conflito. 
-
-sou tão boa que esqueci de criar o conflito.
+Resolvendo o conflito
