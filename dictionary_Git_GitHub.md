@@ -65,3 +65,21 @@ Lista de arquivos que não deve ser adicionado no repositório.
 - backup files
 
 - intermediate files 
+
+
+
+
+
+# Colab Flavia-Ricardo
+
+1. Como fazer colaboração:
+   
+   - Primeiro criar uma pasta fora do seu diretório no qual está o git;
+   
+   - Abrir o Git Bash e dar um "cd" para esse diretório criado para o colaborador;
+   
+   - Realizar o comando:
+     
+     -     git clone <SSH>
+     
+     - 
