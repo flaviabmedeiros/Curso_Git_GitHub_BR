@@ -89,3 +89,25 @@
 *git clone*
 
 - melhor maneira de pegar qualquer cópia no GitHub
+
+*git branch* <name>
+
+- criar uma linha do tempo em paralelo, independente.
+
+- main/master, o principal, tem um histórico. 
+
+- o branch tem um histórico alternativo (log)
+
+- utilidades:
+  
+  1. fazer testes sem alterar o que já está funcional 
+  
+  2. colaborar em um projeto para trabalhar em diferentes tarefas
+  
+  3. utilidade: procurar por soluções diferentes no mesmo problema 
+
+*git checkout <branch_name>*
+
+- usado para mover entre os branches
+
+- usado para mover entre commits
