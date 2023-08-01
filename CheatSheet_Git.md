@@ -90,7 +90,7 @@
 
 - melhor maneira de pegar qualquer cópia no GitHub
 
-*git branch* <name>
+*git branch* <name> ou *--list* se quiser listar todos os branches
 
 - criar uma linha do tempo em paralelo, independente.
 
@@ -106,8 +106,28 @@
   
   3. utilidade: procurar por soluções diferentes no mesmo problema 
 
-*git checkout <branch_name>*
+*git checkout <branch_name>* ou <ID>
 
 - usado para mover entre os branches
 
 - usado para mover entre commits
+
+<mark>**Resolução de conflitos** </mark>
+
+- push (textão)
+
+- pull (aviso de conflito)
+
+- abrir o arquivo. 
+
+- resolver - editar o arquivo corretamente e salvar
+
+- rotina do git
+
+- também pode fazer pelo ungit mas eu não sei hehe. Só quando baixar o NodeJS
+
+<mark>**Efeito espelho do git na pasta do projeto**</mark> = quando você troca de branch a sua máquina vai mostrar os arquivos do ramo atual.
+
+- Git: Ferramenta para acompanhar diferentes versões do seu trabalho
+
+- GITHUB: Plataforma armazenar e fazer Backup dos repositórios Git.

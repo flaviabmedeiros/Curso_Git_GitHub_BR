@@ -78,4 +78,22 @@ Lista de arquivos que não deve ser adicionado no repositório.
      
      -     git clone <SSH>
 
-Resolvendo o conflito
+Dicionário
+
+- Git: Ferramenta para acompanhar diferentes versões do seu trabalho
+
+- GITHUB: Plataforma armazenar e fazer Backup dos repositórios Git.
+
+***O que é necessário para trabalhar em colaboração?***
+
+1. Enviar/aceitar acesso ao repositório remoto do seu parceiro.
+
+2. Clonar o repositório remoto dele com o comanbdo *git clone* *SSH key* (que pode ser encontrada na aba Code do projeto no GitHub)
+
+3. Fazer as alterações necessárias nos arquivos, em seu repositório local e subir as alterar na mesma rotina anterior:
+   
+   *git add*
+   
+   *git commit*
+   
+   *git push*
