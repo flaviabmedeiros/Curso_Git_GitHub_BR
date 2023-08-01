@@ -88,4 +88,4 @@
 
 *git clone*
 
--  melhor maneira de pegar qualquer cópia no GitHub
+- melhor maneira de pegar qualquer cópia no GitHub
