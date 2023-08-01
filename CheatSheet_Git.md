@@ -131,3 +131,29 @@
 - Git: Ferramenta para acompanhar diferentes versões do seu trabalho
 
 - GITHUB: Plataforma armazenar e fazer Backup dos repositórios Git.
+  
+  
+
+*git merge* <name>
+
+- serve para mergir branches que você criou, ou seja, no gráfico da vida lá eles retornam a um ponto comum. Mas eles não desaparecem da lista de branches.
+
+- tem que estar no branch principal que você quer "absorver" 
+
+- 
+
+*git tag* <name>
+
+*git push --tags* 
+
+- dar nome a um commit 
+
+- dar highlight em um momento da sua timeline
+
+- utilidade:
+  
+  1. releasing working version
+  
+  2. marking know good states
+  
+  3. experimenting risk free 
