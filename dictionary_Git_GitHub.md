@@ -81,3 +81,4 @@ Lista de arquivos que não deve ser adicionado no repositório.
        
 
 boa tarde, quero criar o caos. Vou criar um conflito. 
+O caos não foi criado, estamos trabalhando nisso. 
