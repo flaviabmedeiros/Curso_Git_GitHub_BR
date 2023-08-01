@@ -101,5 +101,13 @@ Dicionário
    =======
    
    git checkout ID: cuidado! modificar o passado pode trazer riscos a sua saúde em desespero, lembre-se de criar um branch para não perder tudo que você fez! (*git switch*)
-   
-   > > > > > > > 
+
+
+
+### Forking
+
+You own a completely independent copy of a repository.
+
+what's the difference between git clone and forking?
+
+ Forking a repository allows you to freely experiment with changes without affecting the original project.

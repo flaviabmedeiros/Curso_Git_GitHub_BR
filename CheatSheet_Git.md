@@ -131,8 +131,6 @@
 - Git: Ferramenta para acompanhar diferentes versões do seu trabalho
 
 - GITHUB: Plataforma armazenar e fazer Backup dos repositórios Git.
-  
-  
 
 *git merge* <name>
 
@@ -157,3 +155,7 @@
   2. marking know good states
   
   3. experimenting risk free 
+
+*git fork*
+
+- criar o forking, ou seja, copiar um projeto independente e usar para mim de forma independente. Podendo mergir depois se o autor original quiser colaborar comigo, adicionando minhas alterações.
