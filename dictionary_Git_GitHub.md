@@ -66,10 +66,6 @@ Lista de arquivos que não deve ser adicionado no repositório.
 
 - intermediate files 
 
-
-
-
-
 # Colab Flavia-Ricardo
 
 1. Como fazer colaboração:
@@ -81,5 +77,5 @@ Lista de arquivos que não deve ser adicionado no repositório.
    - Realizar o comando:
      
      -     git clone <SSH>
-     
-     - 
+
+git checkout ID: cuidado! modificar o passado pode trazer riscos a sua saúde em desespero, lembre-se de criar um branch para não perder tudo que você fez! (*git switch*)
