@@ -77,7 +77,7 @@ Lista de arquivos que não deve ser adicionado no repositório.
    - Realizar o comando:
      
      -     git clone <SSH>
-       
-       
 
 boa tarde, quero criar o caos. Vou criar um conflito. 
+
+sou tão boa que esqueci de criar o conflito.
