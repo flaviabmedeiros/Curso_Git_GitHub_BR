@@ -66,10 +66,6 @@ Lista de arquivos que não deve ser adicionado no repositório.
 
 - intermediate files 
 
-
-
-
-
 # Colab Flavia-Ricardo
 
 1. Como fazer colaboração:
@@ -80,6 +76,22 @@ Lista de arquivos que não deve ser adicionado no repositório.
    
    - Realizar o comando:
      
-     -     git clone <SSH>
-     
-     - 
+     -     git clone `SSH`
+
+
+
+
+
+"Criando Multiversos"
+
+- Dentro da pasta local desejada, no git bash, executar o seguinte comando:
+  
+  - git branch "nome do ramo que queira"
+
+- Isso vai criar uma linha paralela de tempo;
+
+- Em seguida, realizar o seguinte comando:
+  
+  - git checkout "nome do ramo criado"
+
+- Isso vai fazer você mudar para o ramo desejado.
